@@ -1,0 +1,84 @@
+h1.main3{
+    color: red;
+   
+}
+
+.sss{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(file:///C:/Users/kalyan/Downloads/anim.jpg);
+}
+.sss1{
+ background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(file:///C:/Users/kalyan/Downloads/tokyo.jpg);
+ height:70cm;
+ width: 100cm;
+
+}
+
+.hi{
+    color: white;
+}
+
+.ss{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(file:///C:/Users/kalyan/Downloads/sss.jpg);
+}
+.main4{ position: absolute;
+    float:right;
+right: 15%;
+}
+.main5{
+    font-family:inherit;
+    color: white;
+    
+}
+.h2{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    height: 10cm;
+    width: 17cm;
+}
+
+h2{
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+}
+nav table tr td a{
+    text-decoration: none;
+    padding: 5px 20px;
+    border: 1px solid transparent white;
+    color: white;
+    margin-top: 20px;
+}
+nav table tr td a:hover{
+    color: #000;
+    background-color: white ;
+}
+nav.nav table tr td a{
+    color:black;
+    text-decoration: none;
+    padding: 5px 20px;
+    border: 1px solid transparent white;
+}
+nav.nav table tr td a:hover{
+    color:white;
+    background-color:black;
+}
+.main{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+position: absolute;
+top: 40%;
+left: 32%;
+}
+
+nav{
+    box-sizing: calc(10);
+
+}
+
+p{ font-size: 22.5px;}
+.main1 {background-image:linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)), url(file:///C:/Users/kalyan/Downloads/anime.jpg) ; 
+height: 100%;
+background-position: center;
+background-size: cover;}
